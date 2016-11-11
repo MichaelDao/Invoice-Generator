@@ -1,0 +1,91 @@
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmChangeStatus.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmGenerator.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmIntro.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmLogin.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecordClient.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecords.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmSearch.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.Resources.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.vbproj.GenerateResource.Cache
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+C:\Users\mifre\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+C:\Users\mifre\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+C:\Users\mifre\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - TONY TUAN Pty Ltd\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmChangeStatus.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmGenerator.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmIntro.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmLogin.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecordClient.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecords.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmSearch.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.Resources.resources
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.vbproj.GenerateResource.Cache
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmChangeStatus.resources
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmGenerator.resources
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmIntro.resources
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmLogin.resources
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecordClient.resources
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecords.resources
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmSearch.resources
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.Resources.resources
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.vbproj.GenerateResource.Cache
+M:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmInfo.resources
+C:\Users\mifre\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+C:\Users\mifre\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+C:\Users\mifre\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.vbprojResolveAssemblyReference.cache
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmChangeStatus.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmGenerator.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmInfo.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmIntro.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmLogin.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecordClient.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecords.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmSearch.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.Resources.resources
+E:\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.vbproj.GenerateResource.Cache
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.vbprojResolveAssemblyReference.cache
+D:\General Items\Desktop\I.T Unit 4 - Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmInfo.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.vbprojResolveAssemblyReference.cache
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmChangeStatus.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmGenerator.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmInfo.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmIntro.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmLogin.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecordClient.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecords.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmSearch.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice_Generator___TONY_TUAN_Pty_Ltd.Resources.resources
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.vbproj.GenerateResource.Cache
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.exe
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.xml
+D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Release\Invoice Generator - TONY TUAN Pty Ltd.pdb
