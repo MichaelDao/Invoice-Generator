@@ -192,7 +192,7 @@ Partial Class frmRecords
         Me.btnEdit.RightToLeft = System.Windows.Forms.RightToLeft.No
         Me.btnEdit.Size = New System.Drawing.Size(94, 41)
         Me.btnEdit.TabIndex = 1
-        Me.btnEdit.Text = "Edit client invoice"
+        Me.btnEdit.Text = "Load and open invoice"
         Me.ToolTip.SetToolTip(Me.btnEdit, "Select a client invoice then load it onto the generator")
         Me.btnEdit.UseVisualStyleBackColor = False
         '

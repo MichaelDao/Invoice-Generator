@@ -60,3 +60,20 @@ D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\In
 D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmSearch.resources
 D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.Resources.resources
 D:\General Items\Desktop\daom11_Invoice Generator\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice Generator - TONY TUAN Pty Ltd.vbproj.GenerateResource.Cache
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice Generator - TONY TUAN Pty Ltd.exe
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice Generator - TONY TUAN Pty Ltd.xml
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice Generator - TONY TUAN Pty Ltd.pdb
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Debug\Invoice Generator - TONY TUAN Pty Ltd.exe
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Debug\Invoice Generator - TONY TUAN Pty Ltd.pdb
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\bin\Debug\Invoice Generator - TONY TUAN Pty Ltd.xml
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice Generator - TONY TUAN Pty Ltd.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmChangeStatus.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmGenerator.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmInfo.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmIntro.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmLogin.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecordClient.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmRecords.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.frmSearch.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice_Generator___TONY_TUAN_Pty_Ltd.Resources.resources
+C:\Users\Michael\Source\Repos\Visual-Studio-projects\Invoice Generator - program\Invoice Generator - TONY TUAN Pty Ltd\obj\x86\Debug\Invoice Generator - TONY TUAN Pty Ltd.vbproj.GenerateResource.Cache
