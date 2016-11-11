@@ -1,3 +1,2 @@
-# Visual-Studio-projects
-First projects i made for learning how to program
-I am just testing out the features of github
+# Invoice generator
+This was made as a school project, it is a solution that was designed for the small business TONY TUAN pty ltd
