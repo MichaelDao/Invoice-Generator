@@ -1,6 +1,6 @@
 # Invoice generator
-Developed for TONY TUAN pty ltd, a courier business. A digitalized solution to the traditional pen and paper method of recording "runs"
+Developed for TONY TUAN pty ltd, a courier business, a digital solution to the traditional pen and paper records of delivery jobs known as "runs".
 
-Took me a long time program this, but in the end, i learned a lot about programming.
+This was my very first project where I gained exposure to programming. There was a lot of close cooperation with the business owners to developing the solution.
 
-To run this program, run the executable "Invoice Generator - TONY TUAN Pty Ltd.exe" from the release folder.
+To run this program, run the executable "Invoice Generator - TONY TUAN Pty Ltd.exe" within the release folder.
